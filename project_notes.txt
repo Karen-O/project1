@@ -1,0 +1,36 @@
+NEED TO SET UP NEW PROJECT REPO!!!
+
+if only 1 user and user = me, then can I "password-protect" it?
+
+
+
+
+
+seed file only needs 6-7 items at the beginning for testing
+
+will create a new directory on local and name a repo in Github as the same; git init local directory
+
+account.transactions.each --> will run through all the transactions
+
+do credit/debit as Boolean
+
+end question = what's the logic to figure out current_balance
+	--> getting class definitions to work as they should / do what you want them to do
+	--> (work on & test class definitions in pry)
+	--> figure out and get account/transactions working, and then move to adding in users.
+	--> class methods will only be acting on a single object
+	--> Andy cares least about UI
+
+the fridge is a good example for setting it up relationship-wise, because it's food/drink taken into/out of the fridge
+
+Andy: don't worry about testing for this, other than in pry
+
+BABY STEPS!
+1) figure out schema and how models will interact with each other
+2) get some seed data so as to be able to start playing around/testing in pry (~ 2 accounts, 3 transactions each)
+
+
+
+
+
+schema.sql -- "amount" attribute -- "MONEY" data type SHOULD work --> switch to it later! (requires 2 decimal points?)
