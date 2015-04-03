@@ -1,3 +1,6 @@
+require 'active_record'
+require_relative '../db/connection'
+
 require "spec_helper"
 require_relative '../lib/account'
 
